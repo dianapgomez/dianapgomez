@@ -20,7 +20,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,python,dynamodb,mysql,vscode,github&theme=dark&perline=15" alt="My Skills" />
+  <img src="https://skills.syvixor.com/api/icons?i=aws,powerbi,tableau,python,mysql,vscode,github&theme=dark&perline=15" alt="My Skills" />
 </p>
 
 ---
